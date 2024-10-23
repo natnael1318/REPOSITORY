@@ -77,13 +77,13 @@ const Footer = () => {
             <br />
             {/* Social Handle */}
             <div className="flex items-center gap-4 mt-6">
-              <a href="https://t.me/+bHmIiqsI6uc1MzE0">
+              <a href="https://www.instagram.com/healway4?igsh=eWRzMHBydXg0d2cz&utm_source=qrE0">
                 <FaInstagram className="text-2xl hover:text-primary duration-300" />
               </a>
-              <a href="https://www.facebook.com/profile.php?id=100090116642843&mibextid=LQQJ4d">
+              <a href="https://www.facebook.com/share/iE8bzDjG6ebHvrjD/?mibextid=LQQJ4d">
                 <FaFacebook className="text-2xl hover:text-primary duration-300" />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/hayat-mohammed-8b8861274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
                 <FaLinkedin className="text-2xl hover:text-primary duration-300" />
               </a>
               <a href="https://healway09@gmail.com">
