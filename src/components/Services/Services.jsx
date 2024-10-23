@@ -52,12 +52,12 @@ const Services = () => {
             >
               Explore Our Services
             </h1>
-            <p
+            {/* <p
               data-aos="fade-up"
               className="text-gray-600 dark:text-gray-400 text-lg"
             >
               Specialties of Partner Hospitals // የህክምና ጉዞ ወደተለያዩ የአለም መዳረሻዎች 
-            </p>
+            </p> */}
           </div>
 
           {/* services cards */}
